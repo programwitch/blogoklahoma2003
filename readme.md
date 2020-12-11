@@ -6,4 +6,4 @@ Originally started on the web ring service called RingSurf in 2003, it moved to 
 
 On December 1, 2020 registration ended, and on February 1, 2021, the web ring was officially sunset.
 
-An [archive](https://github.com/programwitch/blogoklahoma/blob/main/blogoklahomawebring.json) of the last member list has been made available in JSON format here on Github. 
+An archive of the last member list has been made available in JSON format here on Github. 
